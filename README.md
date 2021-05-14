@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 <h3> 👨🏻‍💻 About Me </h3>
 Hi, im steven! Im a software Developer with a fcus on Web develpment but I also enjoy building small apps for embedded applications in my free time.
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Web Development at Lambda School.
-- 🌱 &nbsp; Currently Learning Blockchain Technology.
+- 🌱 &nbsp; Currently Learning CircuitPyton.
 - Open for project collaboration and internship opportunities. 
 
 <h3>🛠 Tech Stack</h3>
@@ -29,7 +30,7 @@ Hi, im steven! Im a software Developer with a fcus on Web develpment but I also 
 - 🔧 &nbsp; Git | Postman API 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=stevenoakley211_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=stevenoakley211)
 
 ### 📫🤝🏻 Connect with Me
 
